@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BpygPyPfZW6LkiD0LSRd1QrfHCSbvJ9H7WcJy5CYXsWUSVd0f8UO6t8sKalmsjW+96WglFJs6YZDbaDElMDtpQ==",
+  "dgSpecHash": "RD5aWvZIHL0HMxG/EwwrZWMY6zb1eayf3tEiyo1ifZWfqvB+DxGodz6gvi/pduM1bk3n9BF0uph+m1T22MwqgA==",
   "success": true,
   "projectFilePath": "C:\\tutorials\\BuberDinner\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emirh\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\emirh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\emirh\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\emirh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

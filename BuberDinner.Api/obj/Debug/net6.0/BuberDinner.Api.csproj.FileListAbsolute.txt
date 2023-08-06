@@ -45,3 +45,4 @@ C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.
 C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
