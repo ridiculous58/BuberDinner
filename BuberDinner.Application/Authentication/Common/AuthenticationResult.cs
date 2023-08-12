@@ -1,0 +1,1 @@
+// normalde burda olması lazım uğraşmadım sadece
