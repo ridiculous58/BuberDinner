@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Y54O2Mt3HGrRs8Uk579u380OX2/K/0aIf+STWZOqmUL+BJI86acwGsrrOjb9C7vGeS3yvAyYbhKW+cAKUUOboQ==",
+  "dgSpecHash": "embIwy5u9LlD4xNqytRlqsRF0cKKRGbHmekAQjeHGEa3SwMaVcJOtNCoZW5q8wLSqxGw6X1tQsGxgWHve3+gGw==",
   "success": true,
   "projectFilePath": "C:\\tutorials\\BuberDinner\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emirh\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\emirh\\.nuget\\packages\\fluentvalidation\\11.7.0\\fluentvalidation.11.7.0.nupkg.sha512",
+    "C:\\Users\\emirh\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\emirh\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\emirh\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\emirh\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\emirh\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

@@ -52,3 +52,7 @@ C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Ex
 C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
 C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
 C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\tutorials\BuberDinner\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
